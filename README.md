@@ -15,7 +15,7 @@ About Fold n go
 # Storyboard
 
 
-# Please find further explanation to each step of the storyboard here.
+ Please find further explanation to each step of the storyboard here.
 
 
 
