@@ -6,3 +6,4 @@ Welcome to the repository of Fold´n Go, the best solution for healthy, eco-frie
 
 gxc-team-3 created by GitHub Classroom
 
+https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png
