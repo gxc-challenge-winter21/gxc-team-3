@@ -1,6 +1,7 @@
 <p align="right">
- <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png" width="200">
+ <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png" width="100">
  </p>
+ 
 # gxc-team-3
  
 About Fold´n Go
@@ -18,6 +19,7 @@ These pains and needs led us to our storyboard, featuring our idea.
 
 # Storyboard
 
+![Storyboard](https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Storybord_DB_CONNECT_FIN.PNG)
 Please find further explanation to each step of the storyboard here.
 gxc-team-3 created by GitHub Classroom
 
