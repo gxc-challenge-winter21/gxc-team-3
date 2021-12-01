@@ -10,6 +10,15 @@ Welcome to the Github Repository of Fold n go!
 We are a international team of 6 ambitious and passionate students and want to have a positive impact on society:
 Our vision ist to enable sustainable and healty last mile mobility for us and generations to come!
 
+# Team Members
+
+David Röhr     
+Leonard Zimmermann     
+Osenat Ogunlola     
+Sabrina Pudil     
+Tibor Berta      
+Vallentin Altemeyer      
+ 
  
 # Our Journey
 We created a solution for healthy, eco-friendly last-mile-traveling, using an innovation process to develope the solution, containing researching, ideating, prototyping and much more.
