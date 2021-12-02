@@ -17,7 +17,7 @@ Leonard Zimmermann
 Osenat Ogunlola     
 Sabrina Pudil     
 Tibor Berta      
-Vallentin Altemeyer      
+Valentin Altemeyer      
  
  
 # Our Journey
