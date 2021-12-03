@@ -1,8 +1,7 @@
-<p align="right">
- <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png" width="100">
- </p>
+# gxc-team-3 <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png" width="250" height="250" align="right">
+ </img>
  
-# gxc-team-3
+
  
 About Fold´n Go
  
