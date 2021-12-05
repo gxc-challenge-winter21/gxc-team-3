@@ -39,7 +39,7 @@ gxc-team-3 created by GitHub Classroom
 # Prototype
 Click on the following Link to experience our prototype:
 
-https://www.figma.com/proto/RL3zuIbUwJzg1KDtnXVQMk/Valentin-Altemeyer's-team-library?node-id=361%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=361%3A3
+<a href="https://www.figma.com/proto/RL3zuIbUwJzg1KDtnXVQMk/Valentin-Altemeyer's-team-library?node-id=361%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=361%3A3"> Figma Prototype</a>
 
 
 
