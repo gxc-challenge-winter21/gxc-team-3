@@ -1,5 +1,4 @@
-# gxc-team-3 <img src="/innoBike.png" width="340" height="250" align="right">
- </img>
+# gxc-team-3 <img src="/innoBike.png" width="340" height="250" align="right"></img>
  
 
  
