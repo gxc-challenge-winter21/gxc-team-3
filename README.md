@@ -1,4 +1,4 @@
-# gxc-team-3 <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.png" width="250" height="250" align="right">
+# gxc-team-3 <img src="https://github.com/gxc-challenge-winter21/gxc-team-3/blob/main/Klappfahrrad.PNG" width="250" height="250" align="right">
  </img>
  
 
