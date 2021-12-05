@@ -19,7 +19,7 @@ Valentin Altemeyer
  
  
 # Our Journey
-We created a solution for healthy, eco-friendly last-mile-traveling, using an innovation process to develope the solution, containing researching, ideating, prototyping and much more.
+We created a solution for healthy, eco-friendly last-mile-traveling, using an innovation process to develop the solution, containing researching, ideating, prototyping and much more.
 Especially conducting interviews with members of our target group helped us enormous to understand the pains and needs of them.
 
 These pains and needs led us to our storyboard, featuring our idea.
