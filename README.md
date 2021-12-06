@@ -39,7 +39,7 @@ gxc-team-3 created by GitHub Classroom
 # Prototype
 Click on the following link to experience our prototype:
 
-<a href="https://www.figma.com/proto/RL3zuIbUwJzg1KDtnXVQMk/Valentin-Altemeyer's-team-library?node-id=361%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=361%3A3"> Figma Prototype</a>
+<a href="https://www.figma.com/proto/RL3zuIbUwJzg1KDtnXVQMk/Valentin-Altemeyer's-team-library?node-id=361%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=361%3A3"> Fold ´n Go Prototype</a>
 
 Make sure to check out our guide on how to use the prototype <a href="https://github.com/gxc-challenge-winter21/gxc-team-3/wiki/Sprint-2#how-to-use-the-prototype"> here. </a>
 
