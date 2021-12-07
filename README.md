@@ -26,7 +26,7 @@ These pains and needs led us to our storyboard, featuring our idea.
 
 # Storyboard
 
-<img src="./Storybord_DB_CONNECT_FIN.PNG" align="left">
+<img src="./Storybord_DB_CONNECT_END.PNG" align="left">
 Please find further explanation to each step of the storyboard <a href="https://github.com/gxc-challenge-winter21/gxc-team-3/wiki/Storyboard"> here. </a>
 
 
