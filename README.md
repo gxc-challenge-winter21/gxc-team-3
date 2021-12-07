@@ -27,12 +27,7 @@ These pains and needs led us to our storyboard, featuring our idea.
 # Storyboard
 
 <img src="./Storybord_DB_CONNECT_FIN.PNG" align="left">
-Please find further explanation to each step of the storyboard here.
-gxc-team-3 created by GitHub Classroom
-
-
-
-
+Please find further explanation to each step of the storyboard <a href="https://github.com/gxc-challenge-winter21/gxc-team-3/wiki/Storyboard"> here. </a>.
 
 
 
